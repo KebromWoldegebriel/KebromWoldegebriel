@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KebromWoldegebriel
 - 👀 I’m interested in programing 
-- 🌱 I’m currently learning Java, JavaScript, HTML, CSS, BooStrp, SpringBoot 
+- 🌱 I’m currently learning Java, JavaScript, HTML, CSS, BootStrp, SpringBoot 
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me woldegebrielkebrom@gmail.com
 
